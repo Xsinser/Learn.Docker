@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Learn.Docker.ConsoleApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
